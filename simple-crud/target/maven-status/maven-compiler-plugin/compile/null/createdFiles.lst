@@ -1,0 +1,5 @@
+org/knoldus/Application/controller/StudentResource.class
+org/knoldus/Application/model/Student.class
+org/knoldus/Application/entity/StudentEntity.class
+org/knoldus/Application/service/StudentService.class
+META-INF/panache-archive.marker
